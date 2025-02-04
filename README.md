@@ -10,8 +10,8 @@ I have completed my **Master’s in Information Systems** from Northeastern Univ
 ---  
 
 ## 🌐 Connect with Me  
-- **LinkedIn:** [Priyal Gudhka](https://www.linkedin.com/in/priyal-gudhka/)  
-- **GitHub:** [PriyalGudhka](https://github.com/PriyalGudhka)  
+- **LinkedIn:** https://www.linkedin.com/in/priyal-gudhka/ 
+- **GitHub:** https://github.com/PriyalGudhka  
 - **Email:** priyalgudhka@gmail.com  
 
 ---  
